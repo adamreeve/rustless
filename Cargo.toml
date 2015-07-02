@@ -30,7 +30,7 @@ queryst = "*"
 jsonway = "*"
 url = "*"
 cookie = "*"
-hyper = "*"
+hyper = "0.5.2"
 error = "*"
 typemap = "*"
 log = "*"
@@ -39,7 +39,7 @@ traitobject = "*"
 
 [dependencies.iron]
 optional = true
-version = "*"
+version = "0.1.19"
 
 [dependencies.bodyparser]
 optional = true
